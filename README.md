@@ -1,6 +1,6 @@
 # Walmart Sales Forecasting Analysis
 
-[![Static Badge](https://img.shields.io/badge/View_on-Kaggle-blue)](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/overview)
+[![Static Badge](https://img.shields.io/badge/Kaggle_Competition-blue)](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/overview)
 
 ## Goal
 The primary objective is to forecast weekly sales for 45 Walmart stores.
